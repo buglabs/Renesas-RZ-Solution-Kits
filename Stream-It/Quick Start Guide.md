@@ -51,11 +51,11 @@ Congratulations! You can now monitor your device in real-time with a custom dash
 
 ## Using the freeboard Dashboard
 
-The GR-Peach dashboard incorporates bi-directional messaging. 
+The Stream-It kit and dashboard communicate using dweet. [Learn more about dweet](https://dweetPro.io)
 
-Depress the button on GR-PEACH to see the indicator light turn on.
+Depress the button on the Stream-It kit to see the indicator light on the dashboard turn on.
 
-Click on one of the LED Indicators to turn the corresponding LED on or off.
+Click on one of the LED Indicators to turn the corresponding LED on or off on the Stream-It kit.
 
 ### More about Using freeboard
 
