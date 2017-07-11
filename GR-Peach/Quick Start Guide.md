@@ -45,7 +45,7 @@ Click "Try it now!"
 
 Congratulations! You can now monitor your device in real-time with a custom dashboard, like below:
 
-![dash2](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/GR-Peach/Files/Pictures/Peach%201.PNG)
+![Peach 1](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/GR-Peach/Files/Pictures/Peach%201.PNG)
 
 ## Using the freeboard Dashboard
 
@@ -54,6 +54,8 @@ The GR-Peach dashboard incorporates bi-directional messaging.
 Depress the button on GR-Peach to see the indicator light turn on.
 
 Click on one of the LED Indicators to turn the corresponding LED on or off.
+
+![Peach 2](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/GR-Peach/Files/Pictures/Peach%202.PNG)
 
 ### More about Using freeboard
 
