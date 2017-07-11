@@ -33,7 +33,7 @@ Navigate to https://renesas.dweet.io
 
 ### Step 2 
 
-Enter your Stream-It "Thing Name".
+Enter your GR-Peach "Thing Name".
 
 [Where do I find my Thing Name"?](#view-your-device)
 
@@ -51,7 +51,7 @@ Congratulations! You can now monitor your device in real-time with a custom dash
 
 The GR-Peach kit and dashboard communicate using dweet. [Learn more about dweet](https://dweetPro.io)
 
-Depress the button on GR-PEACH to see the indicator light turn on.
+Depress the button on GR-Peach to see the indicator light turn on.
 
 Click on one of the LED Indicators to turn the corresponding LED on or off.
 
