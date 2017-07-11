@@ -13,6 +13,8 @@
 
 ## Getting Started
 
+[View the Renesas Stream-It! Quick Start Guide](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/Stream-It/Files/Stream-It%20HW%20QGS.pdf)
+
 ### Download the Firmware
 
 ### Connect to Internet
@@ -77,7 +79,7 @@ Click on one of the LED Indicators to turn the corresponding LED on or off.
 
 ## Helpful Links
 
-[Hard/Software Support for the Renesas GR-Peach kits](http://gadget.renesas.com/en/product/peach.html)
+[Support for the Renesas Stream-It! kits](https://www.renesas.com/en-us/solutions/key-technology/human-interface/rz-stream-it-v1.html)
 
 [Freeboard Open Source Repo](https://github.com/Freeboard/freeboard)
 
