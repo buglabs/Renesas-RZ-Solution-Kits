@@ -51,7 +51,7 @@ Congratulations! You can now monitor your device in real-time with a custom dash
 
 The GR-Peach dashboard incorporates bi-directional messaging. 
 
-Depress the button on GR-PEACH to see the indicator light turn on.
+Depress the button on GR-Peach to see the indicator light turn on.
 
 Click on one of the LED Indicators to turn the corresponding LED on or off.
 
