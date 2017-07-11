@@ -49,11 +49,11 @@ Congratulations! You can now monitor your device in real-time with a custom dash
 
 ## Using the freeboard Dashboard
 
-The Stream-It kit and dashboard communicate using dweet. [Learn more about dweet](https://dweetPro.io)
+The GR-Peach kit and dashboard communicate using dweet. [Learn more about dweet](https://dweetPro.io)
 
-Depress the button on the Stream-It kit to see the indicator light on the dashboard turn on.
+Depress the button on GR-PEACH to see the indicator light turn on.
 
-Click on one of the LED Indicators to turn the corresponding LED on or off on the Stream-It kit.
+Click on one of the LED Indicators to turn the corresponding LED on or off.
 
 ![Peach 2](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/GR-Peach/Files/Pictures/Peach%202.PNG)
 
