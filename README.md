@@ -14,15 +14,17 @@
 
 ### Step 1 
 
+Navigate to https://renesas.dweet.io
+
+### Step 2 
+
 Enter your "Thing Name" [from a supported device](#supported-devices).
 
 ![RIS entry](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/RIS%20entry.PNG)
 
-### Step 2 
+### Step 3
 
 Click "Try it now!"
-
-### Step 3
 
 Congratulations! You can now monitor your data in real-time. 
 
@@ -42,43 +44,13 @@ Depending on the Renesas kit you are using, you will have a custom dashboard, li
 
 ## Supported Devices
 
-[Renesas RZ IoT kits](#renesas-rz-iot-kits)
+### GR-PEACH
 
-[Renesas Synergy Starter Kits](#renesas-synergy-starter-kits)
+[Link to GR-Peach QSG](https://github.com/buglabs/Renesas-RZ-Solution-Kits/blob/master/GR-Peach/Quick%20Start%20Guide.md)
 
-### Renesas RZ IoT kits
+### STREAM-IT
 
-Link to QSG for RZ or RZ Renesas links 
-
-#### PEACHY
-
-Link to Peachy QSG
-
-#### STREAM-IT
-
-Link to Stream-it QSG
-
-### Renesas Synergy Starter Kits
-
-[Renesas Synergy Starter Kits](https://github.com/buglabs/Synergy-Starter-Kit)
-
-#### S3A7
-
-[Using the Renesas S3A7](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/S3A7/readme.md)
-
-#### S5D9
-
-[Using the Renesas S5D9](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/README.md)
-
-#### SKS7 IoT Enabler
-
-[How to Update the SKS7 device](https://github.com/buglabs/Synergy-Starter-Kit/tree/master/Files/SKS7)
-
-##### Other Devices
-
-[RL78 Iot EnableR Kit](https://github.com/buglabs/iot-enabler-kit)
-
-Note: This kit works on the Bug Labs [freeboard server](https://freeboard.io)
+[Link to Stream-It QSG](https://github.com/buglabs/Renesas-RZ-Solution-Kits/blob/master/Stream-It/Quick%20Start%20Guide.md)
 
 ## Using Freeboard
 
