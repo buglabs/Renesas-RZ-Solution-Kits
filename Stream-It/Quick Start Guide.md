@@ -35,7 +35,7 @@ Navigate to https://renesas.dweet.io
 
 ### Step 2 
 
-Enter your GR-Peach "Thing Name".
+Enter your Stream-It "Thing Name".
 
 [Where do I find my Thing Name"?](#view-your-device)
 
