@@ -26,7 +26,7 @@ https://renesas.dweet.io/follow/peach_test
 
 ### Step 1 
 
-Enter your GR-PEach"Thing Name".
+Enter your GR-Peach "Thing Name".
 
 ![RIS entry](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/RIS%20entry.PNG)
 
@@ -40,7 +40,7 @@ Congratulations! You can now monitor your data in real-time.
 
 Depending on the Renesas kit you are using, you will have a custom dashboard, like below:
 
-![dash2](https://github.com/buglabs/Synergy-Starter-Kit/raw/master/Pictures/dash2.PNG)
+![dash2](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/GR-Peach/Files/Pictures/Peach%201.PNG)
 
 
 ## Using Freeboard
