@@ -29,9 +29,11 @@ Make sure you installed everything in the quick start guide” THEN section 3.6.
 
 #### View your Device
 
-Find your Thing-Name
+Find your Thing-Name and view the raw data feed:
 
-https://renesas.dweet.io/follow/stream_test
+https://renesas.dweet.io/follow/
+
+For testing purposes, we have set up a live board: https://renesas.dweet.io/follow/RZ-StreamIt2-Test
 
 [View your device in the Stream-It Default Dashboard.](https://renesas.freeboard.io/board/rVbZ2R)
 
