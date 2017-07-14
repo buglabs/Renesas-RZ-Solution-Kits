@@ -23,7 +23,7 @@ Make sure you installed everything in the quick start guide” THEN section 3.6.
 
 #### Download the Binary
 
-[Download the Binary from here](#download-the-binary)
+[Download the Binary from here](https://github.com/buglabs/Renesas-RZ-Solution-Kits/tree/master/Stream-It/Files/Firmware)
 
 ### Step 3 
 
