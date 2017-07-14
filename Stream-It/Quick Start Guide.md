@@ -33,7 +33,7 @@ Find your Thing-Name
 
 https://renesas.dweet.io/follow/stream_test
 
-[View your device in the Stream-It Default Dashboard.]9https://renesas.freeboard.io/board/15ZI2R)
+[View your device in the Stream-It Default Dashboard.](https://renesas.freeboard.io/board/15ZI2R)
 
 ## Create Your Custom Dashboard
 
