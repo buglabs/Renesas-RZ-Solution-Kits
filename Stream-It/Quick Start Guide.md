@@ -73,7 +73,7 @@ Click "Try it now!"
 
 Congratulations! You can now monitor your device in real-time with a custom dashboard, like below:
 
-![dash2](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/GR-Peach/Files/Pictures/Peach%201.PNG)
+![stream-it dash](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/Stream-It/Files/Pictures/stream-it%20dash.PNG)
 
 ## Using the freeboard Dashboard
 
