@@ -19,21 +19,37 @@ Open kit, follow the instructions in [The Renesas Stream-It! Quick Start Guide](
 
 ### Step 2
 
-Make sure you installed everything in the quick start guide” THEN section 3.6.1
+Make sure you installed everything in the quick start guide, THEN 
 
 #### Download the Binary
 
 [Download the Binary from here](https://github.com/buglabs/Renesas-RZ-Solution-Kits/tree/master/Stream-It/Files/Firmware)
 
+#### Run the Software
+
+Uses the Stream it! - RZ Boot Loader to run the application. It may be necessary to obtain this
+loader application to use this method. 
+
+Copy the ‘[StreamIt2_Dweet.bin](https://github.com/buglabs/Renesas-RZ-Solution-Kits/blob/master/Stream-It/Files/Firmware/StreamIt2_Dweet.bin)’ file into ‘StreamIt2_QSPI_Loader\scripts’ and rename the bin file to ‘StreamIt2_User_App.bin’. 
+
+###### Run the batch file
+
+‘Program_QSPI_Loader_Application.bat’ that is in the project ‘scripts’ folder.
+
+A window should pop up for the few seconds that it takes for the binary file to be copied to the flash memory on
+the Stream it! - RZ board.
+
+Once the SPI flash has been reprogrammed the new code will be executed on device reset. 
+
+This application will now run automatically each time the board is powered on.
+
 ### Step 3 
 
 #### View your Device
 
-Find your Thing-Name and view the raw data feed:
+Find your Thing-Name
 
-https://renesas.dweet.io/follow/
-
-For testing purposes, we have set up a live board: https://renesas.dweet.io/follow/RZ-StreamIt2-Test
+https://renesas.dweet.io/follow/stream_test
 
 [View your device in the Stream-It Default Dashboard.](https://renesas.freeboard.io/board/rVbZ2R)
 
