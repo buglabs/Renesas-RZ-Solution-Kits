@@ -23,7 +23,7 @@ Find your Thing-Name
 
 https://renesas.dweet.io/follow/peach_test
 
-
+[View your data in the GR-Peach Default Dashboard](https://renesas.freeboard.io/board/JOf8XP)
 
 ## Create Your Custom Dashboard
 
