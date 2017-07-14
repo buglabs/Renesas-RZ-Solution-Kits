@@ -13,13 +13,21 @@
 
 ## Getting Started
 
-[View the Renesas Stream-It! Quick Start Guide](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/Stream-It/Files/Stream-It%20HW%20QGS.pdf)
+### Step 1
 
-### Download the Firmware
+Open kit, follow the instructions in [The Renesas Stream-It! Quick Start Guide](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/Stream-It/Files/Stream-It%20HW%20QGS.pdf)
 
-### Connect to Internet
+### Step 2
 
-### View your Device
+Make sure you installed everything in the quick start guide” THEN section 3.6.1
+
+#### Download the Binary
+
+[Download the Binary from here](#download-the-binary)
+
+### Step 3 
+
+#### View your Device
 
 Find your Thing-Name
 
