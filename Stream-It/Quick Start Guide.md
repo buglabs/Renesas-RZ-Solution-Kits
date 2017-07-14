@@ -39,6 +39,8 @@ Copy the ‘[StreamIt2_Dweet.bin](https://github.com/buglabs/Renesas-RZ-Solution
 A window should pop up for the few seconds that it takes for the binary file to be copied to the flash memory on
 the Stream it! - RZ board.
 
+![stream-it loader](https://github.com/buglabs/Renesas-RZ-Solution-Kits/raw/master/Stream-It/Files/Pictures/stream-it%20loader.PNG)
+
 Once the SPI flash has been reprogrammed the new code will be executed on device reset. 
 
 This application will now run automatically each time the board is powered on.
