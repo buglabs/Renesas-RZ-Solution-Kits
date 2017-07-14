@@ -27,7 +27,7 @@ Make sure you installed everything in the quick start guide, THEN
 
 #### Run the Software
 
-Uses the [Stream it! - RZ Boot Loader](https://www.renesas.com/en-eu/software/D6001157.html) to run the application. It may be necessary to obtain this
+Use the [Stream it! - RZ Boot Loader](https://www.renesas.com/en-eu/software/D6001157.html) to run the application. It may be necessary to obtain this
 loader application to use this method. 
 
 Copy the ‘[StreamIt2_Dweet.bin](https://github.com/buglabs/Renesas-RZ-Solution-Kits/blob/master/Stream-It/Files/Firmware/StreamIt2_Dweet.bin)’ file into ‘StreamIt2_QSPI_Loader\scripts’ and rename the bin file to ‘StreamIt2_User_App.bin’. 
