@@ -15,6 +15,10 @@
 
 ### Download the Firmware
 
+[GR-Peach Firmware](https://github.com/buglabs/Renesas-RZ-Solution-Kits/tree/master/GR-Peach/Files/Firmware)
+
+[Hard/Software Support for the Renesas GR-Peach kits](http://gadget.renesas.com/en/product/peach.html)
+
 ### Connect to Internet
 
 ### View your Device
